@@ -153,6 +153,7 @@ main{
                     color: hsl(276, 55.1%, 52%);
                     background: hsl(276, 40.5%, 92.7%);
                     border-radius: 10px 10px 10px 4px;
+                    box-shadow: 0 10px 5px -5px hsla(271, 36.1%, 23.9%, 0.05);
                     transform: translateX(-40%);
                     opacity: 0;
                 }
@@ -162,6 +163,7 @@ main{
                     background: #FFF;
                     border-radius: 10px 10px 4px 10px;
                     margin-left: auto;
+                    box-shadow: 0 10px 5px -5px hsla(271, 36.1%, 23.9%, 0.05);
                     transform: translateX(40%);
                     opacity: 0;
                    
@@ -190,6 +192,7 @@ main{
                 width: 160px;
                 padding: 10px 0;
                 border-radius: 10px 10px 10px 4px;
+                box-shadow: 0 10px 5px -5px hsla(271, 36.1%, 23.9%, 0.05);
 
                 &__circle{
                     box-sizing: border-box;

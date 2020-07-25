@@ -175,6 +175,8 @@ main {
   color: #9241c8;
   background: #eee5f4;
   border-radius: 10px 10px 10px 4px;
+  -webkit-box-shadow: 0 10px 5px -5px rgba(62, 39, 83, 0.05);
+          box-shadow: 0 10px 5px -5px rgba(62, 39, 83, 0.05);
   -webkit-transform: translateX(-40%);
           transform: translateX(-40%);
   opacity: 0;
@@ -185,6 +187,8 @@ main {
   background: #FFF;
   border-radius: 10px 10px 4px 10px;
   margin-left: auto;
+  -webkit-box-shadow: 0 10px 5px -5px rgba(62, 39, 83, 0.05);
+          box-shadow: 0 10px 5px -5px rgba(62, 39, 83, 0.05);
   -webkit-transform: translateX(40%);
           transform: translateX(40%);
   opacity: 0;
@@ -221,6 +225,8 @@ main {
   width: 160px;
   padding: 10px 0;
   border-radius: 10px 10px 10px 4px;
+  -webkit-box-shadow: 0 10px 5px -5px rgba(62, 39, 83, 0.05);
+          box-shadow: 0 10px 5px -5px rgba(62, 39, 83, 0.05);
 }
 
 .mockup__inner__body__option__circle {
