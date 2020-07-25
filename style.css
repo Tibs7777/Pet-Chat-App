@@ -99,7 +99,7 @@ main {
 
 .mockup__inner__top__content__chevron {
   color: #FFF;
-  font-size: 10px;
+  font-size: 12px;
   margin-right: 8px;
   -webkit-transform: scale(0.7, 1);
           transform: scale(0.7, 1);
@@ -108,7 +108,7 @@ main {
 .mockup__inner__top__content__ellipsis {
   color: #FFF;
   margin-left: auto;
-  font-size: 8px;
+  font-size: 12px;
   -webkit-transform: scale(0.7, 1);
           transform: scale(0.7, 1);
 }
@@ -277,6 +277,7 @@ main {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   padding-top: 6px;
+  padding-left: 2px;
   width: 24px;
   height: 24px;
   background: #3e2753;

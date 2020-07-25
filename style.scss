@@ -89,7 +89,7 @@ main{
 
                 &__chevron{
                     color: #FFF;
-                    font-size: 10px;
+                    font-size: 12px;
                     margin-right: 8px;
                     transform: scale(0.7, 1);
                 }
@@ -97,7 +97,7 @@ main{
                 &__ellipsis{
                     color: #FFF;
                     margin-left: auto;
-                    font-size: 8px;
+                    font-size: 12px;
                     transform: scale(0.7, 1);
                 }
 
@@ -239,6 +239,7 @@ main{
                     font-size: 12px;
                     box-sizing: border-box;
                     padding-top: 6px;
+                    padding-left: 2px;
                     width: 24px;
                     height: 24px;
                     background: hsl(271, 36.1%, 23.9%);
@@ -301,7 +302,6 @@ main{
 
 .anim-5{
     animation: 0.5s ease-out 4s 1 slideInFromRight forwards;
-
 }
 
 .anim-6{
